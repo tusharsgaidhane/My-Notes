@@ -1,2 +1,2 @@
-# Class-Notes
-My class notes for learning
+# My-Notes
+My notes for learning
